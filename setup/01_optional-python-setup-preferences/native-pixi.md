@@ -33,16 +33,16 @@ wget -qO- https://pixi.sh/install.sh | sh
 
 **Windows**
 
-```powershell
-powershell -ExecutionPolicy ByPass -c "irm -useb https://pixi.sh/install.ps1 | iex"
-```
+Download the installer from the official [documentation](https://pixi.sh/latest/installation/#__tabbed_1_2) or run the listed PowerShell command.
+
+
 
 > **Note:**
 > For more installation options, please refer to the official [pixi documentation](https://pixi.sh/latest/).
 
 
 &nbsp;
-## 1. Install Python
+## 2. Install Python
 
 You can install Python using pixi:
 
